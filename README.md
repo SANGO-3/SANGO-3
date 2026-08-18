@@ -24,6 +24,10 @@
 <p align="center">
   <img width="400" src="https://i.imgur.com/pd28pjJ.gif" alt="Border">
 </p>
+ <p align="center"> 
+  @NostalgicSplatterlingSys is ponytown’s captain 3 (splatoon 3) !
+  </p>
+  <br>
 <p align="center">
   HI THERE!! The names Diaraika!! But my friends call me Cap personally heh!
   </p>
