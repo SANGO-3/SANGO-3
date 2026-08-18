@@ -61,6 +61,9 @@
 <p align="center"> 
   <img width="400" src="https://i.imgur.com/C941s6b.gif">
 </p>
+<p align="center">
+  <img width="400" src="https://i.imgur.com/HU52uPY.png" alt="Border">
+</p>
 
 <p align="center"> 
   <img width="20" src="https://i.imgur.com/no1NiBH.gif"> ‎ You're a pedo
