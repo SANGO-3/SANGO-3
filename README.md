@@ -58,11 +58,11 @@
   <img width="900" src="https://64.media.tumblr.com/36c55886bee9fe7d279d256aad3ff529/302789f89df00509-0e/s400x600/1c24ef4e95cb3523b53acc4c8dad77d2a16e4448.gifv" alt="Border">
 </p>
 
-<p align="center"> 
-  <img width="400" src="https://i.imgur.com/C941s6b.gif">
-</p>
 <p align="center">
   <img width="400" src="https://i.imgur.com/HU52uPY.png" alt="Border">
+</p>
+<p align="center"> 
+  <img width="400" src="https://i.imgur.com/C941s6b.gif">
 </p>
 
 <p align="center"> 
